@@ -1,0 +1,10 @@
+frutas = ["limao", "uva", "laranja" ]
+curso = ["Curso de python "]
+
+print("laranja" in frutas)
+print("limao" not in frutas)
+print("Python" in curso)
+
+x = (22 - 10) * 3
+
+print(x)
