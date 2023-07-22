@@ -1,0 +1,21 @@
+# operadores associacao
+# O retorno é sempre um booleano, ou seja, só pode ser True ou False.
+# operador “in” diferencia letras maiúsculas de minúsculas
+
+texto = "Como aprender Python sem esforço"
+print("Python" in texto)
+
+if "python" in texto:
+    print("Eu amo Python!")
+else:
+    print("Python é demais!")
+
+
+    linguagens = ["python", "java", "php", "basic"]
+
+    if "python" in linguagens:
+        print("Python é a melhor do mundo!")
+    else:
+        print("Voce deveria aprender Python!")
+
+#============================================================
